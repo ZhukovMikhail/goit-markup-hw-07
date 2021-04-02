@@ -1,0 +1,8 @@
+:root{--main-font: 'Roboto', sans-serif;--secondary-font: 'Raleway', sans-serif;--accent-color: #2196f3;--hover-btn-color: #188ce8;--font-color: #212121;--project-card-gap: 30px;--icons-color: #afb1b8;--transition-hover-focus: color 250ms cubic-bezier(0.4, 0, 0.2, 1),
+    fill 250ms cubic-bezier(0.4, 0, 0.2, 1),
+    border-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
+    outline-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
+    background-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
+    background-image 250ms cubic-bezier(0.4, 0, 0.2, 1),
+    box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1)}h1,h2,h3,h4,h5,h6,p{margin:0px}ul,li{margin:0px;padding:0px}body{font-family:var(--main-font);color:var(--font-color)}.list{list-style:none}.link{text-decoration:none;display:block}.link:focus{outline-color:var(--accent-color)}.hidden-tittle{width:0px;height:0px;margin:-1px;border:0;padding:0;white-space:nowrap;clip-path:inset(100%);clip:rect(0 0 0 0);overflow:hidden}.section{padding-top:94px;padding-bottom:94px}.container{width:1200px;padding-left:15px;padding-right:15px;margin:0 auto}
+/*# sourceMappingURL=main.min.css.map */
