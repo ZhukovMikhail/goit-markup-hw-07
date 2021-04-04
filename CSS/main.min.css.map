@@ -29,8 +29,7 @@
         "../sass/layout/_our-team.scss",
         "../sass/layout/_our-clients.scss",
         "../sass/layout/_footer.scss",
-        "../sass/layout/_portpholio-main.scss",
-        "../sass/components/_user-data-form.scss"
+        "../sass/layout/_portpholio-main.scss"
     ],
     "names": [],
     "file": "main.min.css"
